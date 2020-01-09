@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="micomponente">
+    <output-path>$PROJECT_DIR$/out/artifacts/micomponente</output-path>
+    <root id="archive" name="micomponente.jar">
+      <element id="module-output" name="PrimerComponente" />
+    </root>
+  </artifact>
+</component>
